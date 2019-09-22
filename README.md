@@ -1,2 +1,0 @@
-# RANDPIC
-Null
